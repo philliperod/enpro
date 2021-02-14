@@ -1,0 +1,34 @@
+### ENPro Photography
+
+- Homepage:
+  - [ ] Navbar
+    - [ ] Logo
+    - [ ] Home
+    - [ ] Portfolio
+    - [ ] Prints
+    - [ ] About
+    - [ ] Contact
+  - [ ] Hero
+    - [ ] Image
+  - [ ] Footer
+    - [ ] Copyright
+    - [ ] Social Icons
+- Portfolio:
+  - [ ] Navbar
+  - [ ] Image Folders
+    - [ ] Weddings
+    - [ ] Houses
+    - [ ] Landscape
+    - [ ] Portrait
+  - [ ] Footer
+- Prints
+- About:
+  - [ ] Navbar
+  - [ ] Top Container
+  - [ ] Middle Container
+  - [ ] Bottom Container
+  - [ ] Footer
+- Contact
+  - [ ] Navbar
+  - [ ] Form
+  - [ ] Footer
